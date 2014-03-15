@@ -3,6 +3,7 @@ A personal boilerplate for building website with Parallex Scrolling using [skrol
 __Usage__
 
 `npm install`
+
 `grunt`
 
 __Reference:__
